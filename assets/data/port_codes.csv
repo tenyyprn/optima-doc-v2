@@ -1,0 +1,410 @@
+port_code,port_name,country
+AAE,Annaba,ALGERIA
+AAR,Aarhus,DENMARK
+ABJ,Abidjan,COTE D'IVOIRE
+ACJ,Acajutla,EL SALVADOR
+ADE,Aden,YEMEN
+ADL,Adelaide,AUSTRALIA
+AGA,Agadir,MOROCCO
+AJB,Al Jubail,SAUDI ARABIA
+AKL,Auckland,NEW ZEALAND
+ALE,Algeciras,SPAIN
+ALG,Algiers,ALGERIA
+ALY,Alexandria,EGYPT
+AMS,Amsterdam,NETHERLANDS
+AMY,Almaty,KAZAKHSTAN
+ANR,Antwerp,BELGIUM
+ANS,Puerto Angamos,CHILE
+AOI,Ancona,ITALY
+APP,Apapa,NIGERIA
+APW,Apia,SAMOA WESTERN
+AQJ,Aqaba,JORDAN
+ASH,Ashdod,ISRAEL
+ASU,Asuncion,PARAGUAY
+ATK,Astana,KAZAKHSTAN
+ATL,Atlanta,U.S.A.
+AUA,Aruba,ANTILLES NETH.
+AUH,Abu Dhabi,U.A.E.
+BAH,Bahrain,BAHRAIN
+BAL,Balboa,PANAMA
+BAQ,Barranquilla,COLOMBIA
+BCN,Barcelona,SPAIN
+BEL,Belem,BRAZIL
+BEW,Beira,MOZAMBIQUE
+BEY,Beirut,LEBANON
+BFS,Belfast,U.K.
+BGS,Batangas,PHILIPPINES
+BJA,Bejaia,ALGERIA
+BKI,Kota Kinabalu,MALAYSIA
+BKK,Bangkok,THAILAND
+BLD,Belawan Deli,INDONESIA
+BLU,Bluff,NEW ZEALAND
+BME,Broome,AUSTRALIA
+BND,Bandar Abbas,IRAN
+BNE,Brisbane,AUSTRALIA
+BOM,Mumbai,INDIA
+BOS,Boston,U.S.A.
+BQM,Port Qasim,PAKISTAN
+BRE,Bremen/Bremerhaven,GERMANY
+BRS,Bristol,U.K.
+BTU,Bintulu,MALAYSIA
+BTW,Bridgetown,BARBADOS
+BVT,Buenaventura,COLOMBIA
+BWI,Baltimore,U.S.A.
+BZE,Belize,BELIZE
+CAS,Casablanca,MOROCCO
+CCD,Caucedo,DOMINICAN REP.
+CCU,Kolkata,INDIA
+CEB,Cebu,PHILIPPINES
+CGD,Cigading,INDONESIA
+CGP,Chittagong,BANGLADESH
+CHI,Chicago,U.S.A.
+CHS,Charleston,U.S.A.
+CKY,Conakry,GUINEA
+CLA,Callao,PERU
+CMB,Colombo,SRI LANKA
+CMH,Columbus,U.S.A.
+CND,Constantza,ROMANIA
+CNL,Coronel,CHILE
+CNS,Cairns,AUSTRALIA
+COK,Cochin,INDIA
+COO,Cotonou,BENIN
+CPH,Copenhagen,DENMARK
+CPT,Cape Town,S.AFRICA
+CQG,Chongqing,CHINA P.R.OF
+CRT,Corinto,NICARAGUA
+CSU,Changshu,CHINA P.R.OF
+CSX,Changsha,CHINA P.R.OF
+CTG,Cartagena,COLOMBIA
+CUR,Curacao,ANTILLES NETH.
+CWN,Chiwan,CHINA P.R.OF
+CZH,Changzhou,CHINA P.R.OF
+DAD,Danang,VIET NAM
+DAR,Dar es Salaam,TANZANIA
+DCB,Da Chan Bay,CHINA P.R.OF
+DFW,Dallas,U.S.A.
+DGG,Dongguan,CHINA P.R.OF
+DIL,Dili,E.TIMOR
+DKR,Dakar,SENEGAL
+DLA,Douala,CAMEROUN
+DLC,Dalian,CHINA P.R.OF
+DMM,Dammam,SAUDI ARABIA
+DMP,Dampier,AUSTRALIA
+DOH,Doha,QATAR
+DRC,Derince,TURKEY
+DRW,Darwin,AUSTRALIA
+DTT,Detroit,U.S.A.
+DUB,Dublin,IRELAND
+DUR,Durban,S.AFRICA
+DVO,Davao,PHILIPPINES
+EBY,Ebeye,MARSHALL IS.
+ELS,East London,S.AFRICA
+ESM,Esmeraldas,ECUADOR
+ESN,Ensenada,MEXICO
+FLX,Felixstowe,U.K.
+FNA,Freetown,SIERRA LEONE
+FOS,Fos,FRANCE
+FPO,Freeport,BAHAMAS
+FSH,Foshan,CHINA P.R.OF
+FTL,Fremantle,AUSTRALIA
+FUQ,Fuqing,CHINA P.R.OF
+FUZ,Fuzhou,CHINA P.R.OF
+GDY,Gdynia,POLAND
+GEB,Gebze,TURKEY
+GEE,Geelong,AUSTRALIA
+GEM,Gemlik,TURKEY
+GEO,Georgetown,GUYANA
+GES,General Santos,PHILIPPINES
+GLT,Gladstone,AUSTRALIA
+GOA,Genova,ITALY
+GOT,Gothenburg,SWEDEN
+GSN,Gunsan,KOREA REP.OF
+GTU,Gioia Tauro,ITALY
+GUG,Guangzhou,CHINA P.R.OF
+GUM,Guam,MARIANA IS.
+GYE,Guayaquil,ECUADOR
+HAM,Hamburg,GERMANY
+HBT,Hambantota,SRI LANKA
+HFA,Haifa,ISRAEL
+HIR,Honiara,SOLOMON IS.
+HKG,Hongkong,CHINA P.R.OF
+HLD,Haldia,INDIA
+HMZ,Haimen,CHINA P.R.OF
+HNL,Honolulu,U.S.A.
+HOU,Houston,U.S.A.
+HPH,Haiphong,VIET NAM
+HUG,Huangpu,CHINA P.R.OF
+ILM,Wilmington,U.S.A.
+IND,Indianapolis,U.S.A.
+INH,Incheon,KOREA REP.OF
+IPA,Itapoa,BRAZIL
+IQQ,Iquique,CHILE
+ISE,Iskenderun,TURKEY
+IST,Istanbul,TURKEY
+ITG,Itaguai,BRAZIL
+ITJ,Itajai,BRAZIL
+ITQ,Itaqui,BRAZIL
+IVK,Ilyichevsk,UKRAINE
+IZK,Izmit Korfezi,TURKEY
+IZM,Izmir,TURKEY
+JAX,Jacksonville,U.S.A.
+JBA,Jebel Ali,U.A.E.
+JED,Jeddah,SAUDI ARABIA
+JGM,Jiangmen,CHINA P.R.OF
+JHR,Johore,MALAYSIA
+JIA,Jiangyin,CHINA P.R.OF
+JIB,Djibouti,DJIBOUTI
+JIU,Jiujiang,CHINA P.R.OF
+JKT,Jakarta,INDONESIA
+JNB,Johannesburg,S.AFRICA
+KAX,King Abdullah Port,SAUDI ARABIA
+KCH,Kuching,MALAYSIA
+KEA,Kemaman,MALAYSIA
+KFN,Khor Fakkan,U.A.E.
+KHH,Kaohsiung,TAIWAN
+KHI,Karachi,PAKISTAN
+KHN,Nanchang,CHINA P.R.OF
+KIN,Kingston,JAMAICA
+KLG,Keelung,TAIWAN
+KOP,Koper,SLOVENIA
+KPO,Pohang,KOREA REP.OF
+KSR,Kosrae,MICRONESIA
+KUA,Kuantan,MALAYSIA
+KWI,Kuwait,KUWAIT
+KWY,Kwangyang,KOREA REP.OF
+LAD,Luanda,ANGOLA
+LAE,Lae,PAPUA NEW GUINEA
+LAG,La Guaira,VENEZUELA
+LAT,Lautoka,FIJI
+LAX,Los Angeles,U.S.A.
+LBT,Lobito,ANGOLA
+LBU,Labuan,MALAYSIA
+LCA,Larnaca,CYPRUS
+LCB,Laem Chabang,THAILAND
+LCG,Corunna,SPAIN
+LED,St.Petersburg,RUSSIAN
+LEH,Le Havre,FRANCE
+LFF,Lafiteau,HAITI
+LFW,Lome,TOGO
+LGB,Long Beach,U.S.A.
+LHS,Lianhuashan,CHINA P.R.OF
+LIR,Lirquen,CHILE
+LIS,Lisbon,PORTUGAL
+LIU,Lianyungang,CHINA P.R.OF
+LKG,Lat Krabang,THAILAND
+LMS,Limassol,CYPRUS
+LOS,Lagos,NIGERIA
+LPA,LasPalmas,CANARY IS.
+LPE,La Spezia,ITALY
+LYT,Lyttelton,NEW ZEALAND
+MAA,Chennai,INDIA
+MAJ,Majuro,MARSHALL IS.
+MBA,Mombasa,KENYA
+MEL,Melbourne,AUSTRALIA
+MEM,Memphis,U.S.A.
+MER,Mersin,TURKEY
+MIA,Miami,U.S.A.
+MLA,Malta,MALTA
+MLW,Monrovia,LIBERIA
+MNL,Manila,PHILIPPINES
+MNY,Masan,KOREA REP.OF
+MNZ,Mongla,BANGLADESH
+MOB,Mobile,U.S.A.
+MOK,Mokpo,KOREA REP.OF
+MPM,Maputo,MOZAMBIQUE
+MRA,Misurata,LIBYA
+MRH,Morehead City,U.S.A.
+MRK,Merak,INDONESIA
+MSW,Massawa,ERITREA
+MSY,New Orleans,U.S.A.
+MTD,Matadi,CONGO D.R.OF
+MTX,Montoir,FRANCE
+MUN,Mundra,INDIA
+MVD,Montevideo,URUGUAY
+MWN,Mawan,CHINA P.R.OF
+MXL,Mexicali,MEXICO
+MZZ,Muara,BRUNEI
+NAC,Nacala,MOZAMBIQUE
+NAK,Newark,U.S.A.
+NAS,Nassau,BAHAMAS
+NCL,Newcastle,U.K.
+NDE,New Delhi,INDIA
+NDK,Nakhodka,RUSSIAN
+NFA,Nukualofa,TONGA
+NHV,Nhava Sheva,INDIA
+NIB,Ningbo,CHINA P.R.OF
+NKG,Nanjing,CHINA P.R.OF
+NNH,Nanhai,CHINA P.R.OF
+NNS,Nansha,CHINA P.R.OF
+NOU,Noumea,NOUVELLE CALEDONIE
+NPE,Napier,NEW ZEALAND
+NPL,New Plymouth,NEW ZEALAND
+NSN,Nelson,NEW ZEALAND
+NTG,Nantong,CHINA P.R.OF
+NTL,Newcastle,AUSTRALIA
+NVG,Navegantes,BRAZIL
+NVS,Novorossiysk,RUSSIAN
+NYC,New York,U.S.A.
+OAK,Oakland,U.S.A.
+ODS,Odessa,UKRAINE
+OFK,Norfolk,U.S.A.
+ONE,Onne,NIGERIA
+ONX,Colon,PANAMA
+ORN,Oran,ALGERIA
+OSL,Oslo,NORWAY
+PAE,Everett,U.S.A.
+PBL,Puerto Cabello,VENEZUELA
+PBM,Paramaribo,SURINAM
+PCD,Puerto Caldera,COSTA RICA
+PCR,Port Chalmers,NEW ZEALAND
+PCT,Puerto Cortes,HONDURAS
+PEN,Penang,MALAYSIA
+PES,Piraeus,GREECE
+PGG,Pasir Gudang,MALAYSIA
+PHE,Port Hedland,AUSTRALIA
+PHF,Newport News,U.S.A.
+PHL,Philadelphia,U.S.A.
+PKG,Port Kelang,MALAYSIA
+PKM,Port Kembla,AUSTRALIA
+PLC,P.L.Cardenas,MEXICO
+PLM,Palembang,INDONESIA
+PLN,Puerto Limon,COSTA RICA
+PLU,Port Louis,MAURITIUS
+PLZ,Port Elizabeth,S.AFRICA
+PNG,Paranagua,BRAZIL
+PNH,Phnom Penh,CAMBODIA
+PNI,Pohnpei,MICRONESIA
+PNR,Pointe Noire,CONGO
+POM,Port Moresby,PAPUA NEW GUINEA
+POS,Port of Spain,TRINIDAD AND TOBAGO
+PPG,Pago Pago,SAMOA AM
+PPT,Papeete,TAHITI IS.
+PQZ,Puerto Quetzal,GUATEMALA
+PRD,Pearl River Delta,CHINA P.R.OF
+PSD,Port Said,EGYPT
+PTI,Poti,GEORGIA
+PTJ,Portland,AUSTRALIA
+PTZ,Point Lisas,TRINIDAD AND TOBAGO
+PUS,Busan,KOREA REP.OF
+PVV,Pipavav,INDIA
+PZU,Port Sudan,SUDAN
+QIN,Qinhuangdao,CHINA P.R.OF
+QSR,Salerno,ITALY
+QUA,Quanzhou,CHINA P.R.OF
+QZH,Qinzhou,CHINA P.R.OF
+RAB,Rabaul,PAPUA NEW GUINEA
+RGN,Yangon,MYANMAR
+RGQ,Rongqi,CHINA P.R.OF
+RIG,Rio Grande,BRAZIL
+RIO,Rio De Janeiro,BRAZIL
+RIX,Riga,LATVIA
+RJK,Rijeka,CROATIA
+ROR,Koror,PALAU(BELAU)
+RTM,Rotterdam,NETHERLANDS
+RUH,Riyadh,SAUDI ARABIA
+SAA,San Antonio,CHILE
+SAL,San Salvador,EL SALVADOR
+SAU,Shantou,CHINA P.R.OF
+SAV,Savannah,U.S.A.
+SBB,Subic Bay,PHILIPPINES
+SBW,Sibu,MALAYSIA
+SDK,Sandakan,MALAYSIA
+SDN,Shuidong,CHINA P.R.OF
+SDZ,Shidao,CHINA P.R.OF
+SEA,Seattle,U.S.A.
+SFI,Safi,MOROCCO
+SGN,Hochiminh City,VIET NAM
+SHA,Shanghai,CHINA P.R.OF
+SHJ,Sharjah,U.A.E.
+SHP,Sokhna Port,EGYPT
+SIM,Siam,THAILAND
+SIN,Singapore,SINGAPORE
+SJO,San Jose,COSTA RICA
+SJU,San Juan,PUERTO RICO
+SKA,Skikda,ALGERIA
+SKG,Thessaloniki,GREECE
+SKU,Shekou,CHINA P.R.OF
+SKV,Sihanoukville,CAMBODIA
+SOU,Southampton,U.K.
+SOZ,Sohar,OMAN
+SPN,Saipan,NORTHERN MARIANAS
+SPY,San Pedro,COTE D'IVOIRE
+SRG,Semarang,INDONESIA
+SST,Santo,VANUATU
+SSZ,Santos,BRAZIL
+SUB,Surabaya,INDONESIA
+SUV,Suva,FIJI
+SVT,San Vicente,CHILE
+SYD,Sydney,AUSTRALIA
+SZD,Shunde,CHINA P.R.OF
+SZH,Shenzhen,CHINA P.R.OF
+SZS,Sines,PORTUGAL
+SZT,Santo Tomas,GUATEMALA
+TAO,Qingdao,CHINA P.R.OF
+TCG,Taichung,TAIWAN
+TCI,Tenerife,CANARY IS.
+TCM,Tacoma,U.S.A.
+TCZ,Taicang,CHINA P.R.OF
+TGN,Tanjung Manis,MALAYSIA
+TIC,Tincan,NIGERIA
+TIJ,Tijuana,MEXICO
+TIP,Tripoli,LIBYA
+TIU,Timaru,NEW ZEALAND
+TKK,Chuuk,MICRONESIA
+TKR,Takoradi,GHANA
+TKZ,Tekirdag,TURKEY
+TMA,Tema,GHANA
+TMM,Tamatave,MADAGASCAR
+TPE,Taipei,TAIWAN
+TPP,Tanjung Pelepas,MALAYSIA
+TRG,Tauranga,NEW ZEALAND
+TRS,Trieste,ITALY
+TRW,Tarawa,KIRIBATI
+TSU,Townsville,AUSTRALIA
+TUN,Tunis,TUNISIA
+TWU,Tawau,MALAYSIA
+TZU,Taizhou,CHINA P.R.OF
+UMM,Umm Qasr,IRAQ
+UPG,Makassar,INDONESIA
+USN,Ulsan,KOREA REP.OF
+VCE,Venice,ITALY
+VGO,Vigo,SPAIN
+VIX,Vitoria,BRAZIL
+VLA,Vila,VANUATU
+VLC,Valencia,SPAIN
+VOS,Vostochny,RUSSIAN
+VPS,Valparaiso,CHILE
+VTT,Valletta,MALTA
+VTZ,Visakhapatnam,INDIA
+VVO,Vladivostok,RUSSIAN
+WHI,Weihai,CHINA P.R.OF
+WLG,Wellington,NEW ZEALAND
+WUH,Wuhan,CHINA P.R.OF
+WUX,Wuxi,CHINA P.R.OF
+WUZ,Wuhu,CHINA P.R.OF
+WVB,Walvis Bay,NAMIBIA
+WVN,Wilhelmshaven,GERMANY
+WZO,Wenzhou,CHINA P.R.OF
+XIA,Xiamen,CHINA P.R.OF
+XIN,Xingang,CHINA P.R.OF
+YAP,Yap,MICRONESIA
+YGU,Yangzhou,CHINA P.R.OF
+YHZ,Halifax,CANADA
+YIG,Yichang,CHINA P.R.OF
+YIN,Yingkou,CHINA P.R.OF
+YNN,Yantian,CHINA P.R.OF
+YNT,Yantai,CHINA P.R.OF
+YUL,Montreal,CANADA
+YVR,Vancouver BC,CANADA
+YYZ,Toronto,CANADA
+ZEE,Zeebrugge,BELGIUM
+ZHA,Zhangjiagang,CHINA P.R.OF
+ZHE,Zhenjiang,CHINA P.R.OF
+ZHG,Zhanjiang,CHINA P.R.OF
+ZHI,Zhuhai,CHINA P.R.OF
+ZHP,Zhapu,CHINA P.R.OF
+ZLO,Manzanillo,MEXICO
+ZLZ,Manzanillo,PANAMA
+ZNZ,Zanzibar,TANZANIA
+ZOH,Zhoushan,CHINA P.R.OF
+ZSH,Zhongshan,CHINA P.R.OF

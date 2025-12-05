@@ -1,0 +1,62 @@
+[
+  {
+    "name": "exporter_name",
+    "display_name": "輸出者名",
+    "type": "string"
+  },
+  {
+    "name": "importer",
+    "display_name": "輸入者",
+    "type": "string"
+  },
+  {
+    "name": "country_code",
+    "display_name": "国コード",
+    "type": "string"
+  },
+  {
+    "name": "security_area",
+    "display_name": "保全地域",
+    "type": "string"
+  },
+  {
+    "name": "cargo_quantity",
+    "display_name": "貨物個数",
+    "type": "string"
+  },
+  {
+    "name": "cargo_weight",
+    "display_name": "貨物重量",
+    "type": "string"
+  },
+  {
+    "name": "export_approval_category",
+    "display_name": "輸出認証等区分",
+    "type": "string"
+  },
+  {
+    "name": "invoice_number",
+    "display_name": "仕入書番号",
+    "type": "string"
+  },
+  {
+    "name": "invoice_price_cif",
+    "display_name": "仕入書価格(CIF)",
+    "type": "string"
+  },
+  {
+    "name": "fob_price",
+    "display_name": "FOB価格",
+    "type": "string"
+  },
+  {
+    "name": "vanning_location",
+    "display_name": "バンニング場所",
+    "type": "string"
+  },
+  {
+    "name": "container_count",
+    "display_name": "コンテナ本数",
+    "type": "string"
+  }
+]

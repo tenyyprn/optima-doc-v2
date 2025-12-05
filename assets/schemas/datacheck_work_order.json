@@ -1,0 +1,72 @@
+[
+  {
+    "name": "exporter_name",
+    "display_name": "輸出者名",
+    "type": "string"
+  },
+  {
+    "name": "deadline",
+    "display_name": "締切日",
+    "type": "string"
+  },
+  {
+    "name": "loading_port",
+    "display_name": "積込港",
+    "type": "string"
+  },
+  {
+    "name": "final_destination",
+    "display_name": "最終仕向地",
+    "type": "string"
+  },
+  {
+    "name": "container_count",
+    "display_name": "コンテナ本数",
+    "type": "string"
+  },
+  {
+    "name": "work_type",
+    "display_name": "作業形態",
+    "type": "string"
+  },
+  {
+    "name": "total_quantity",
+    "display_name": "総個数",
+    "type": "string"
+  },
+  {
+    "name": "total_weight_gross",
+    "display_name": "総重量(グロス)",
+    "type": "string"
+  },
+  {
+    "name": "total_weight_net",
+    "display_name": "総重量(ネット)",
+    "type": "string"
+  },
+  {
+    "name": "pre_factory_vanning",
+    "display_name": "事前工場バンニング",
+    "type": "string"
+  },
+  {
+    "name": "vanning_location",
+    "display_name": "バンニング場所",
+    "type": "string"
+  },
+  {
+    "name": "power_of_attorney",
+    "display_name": "委任状有無",
+    "type": "string"
+  },
+  {
+    "name": "delivery_destination",
+    "display_name": "搬入先",
+    "type": "string"
+  },
+  {
+    "name": "requests",
+    "display_name": "要望事項",
+    "type": "string"
+  }
+]

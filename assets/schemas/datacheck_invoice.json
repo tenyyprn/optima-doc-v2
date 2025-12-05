@@ -1,0 +1,62 @@
+[
+  {
+    "name": "pay_to",
+    "display_name": "Pay to",
+    "type": "string"
+  },
+  {
+    "name": "invoice_no",
+    "display_name": "Invoice No.",
+    "type": "string"
+  },
+  {
+    "name": "billed_to",
+    "display_name": "Billed to",
+    "type": "string"
+  },
+  {
+    "name": "payment",
+    "display_name": "Payment",
+    "type": "string"
+  },
+  {
+    "name": "marks_and_nos",
+    "display_name": "Marks & Nos",
+    "type": "string"
+  },
+  {
+    "name": "shipped_to",
+    "display_name": "To (SHIPPED TO)",
+    "type": "string"
+  },
+  {
+    "name": "description",
+    "display_name": "Description",
+    "type": "string"
+  },
+  {
+    "name": "unit_price",
+    "display_name": "Unite Price",
+    "type": "string"
+  },
+  {
+    "name": "total_pallets",
+    "display_name": "TOTAL PALLETS",
+    "type": "string"
+  },
+  {
+    "name": "total_kgs",
+    "display_name": "TOTAL KGS",
+    "type": "string"
+  },
+  {
+    "name": "total_amount",
+    "display_name": "TOTAL Amount",
+    "type": "string"
+  },
+  {
+    "name": "country_of_origin",
+    "display_name": "COUNTRY OF ORIGIN",
+    "type": "string"
+  }
+]
